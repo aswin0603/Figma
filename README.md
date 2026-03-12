@@ -35,59 +35,55 @@ Figma
 ## CODE:
 ### HTML
 ```html
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Exported from Figma">
-  <title>Exported Figma Design</title>
-  <link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-<div class="events-1">
-<div class="status-bar-2">
-<div class="right-side-3">
-<div class="battery-4">
-<img src="images/rectangle-5.svg" class="rectangle-5" alt="rectangle" />
-<img src="images/combined-shape-6.svg" class="combined-shape-6" alt="combined-shape" />
-<img src="images/rectangle-7.svg" class="rectangle-7" alt="rectangle" />
-</div>
-<img src="images/wifi-8.svg" class="wifi-8" alt="wifi" />
-<img src="images/mobile-signal-9.svg" class="mobile-signal-9" alt="mobile-signal" />
-</div>
-<div class="left-side-10">
-<div class="time-11">
-<img src="images/9-41-12.svg" class="9-41-12" alt="9-41" />
-</div>
-</div>
-</div>
-<img src="images/node-13.png" class="node-13" alt="pexels-vishnurnair-1105666-1" />
-<p class="text-14"><span class="text-white">Events Available</span></p>
-<div class="rectangle-1-15"></div>
-<div class="rectangle-1-16"></div>
-<div class="rectangle-1-17"></div>
-<div class="rectangle-1-18"></div>
-<div class="rectangle-1-19"></div>
-<div class="rectangle-1-20"></div>
-<div class="rectangle-1-21"></div>
-<div class="rectangle-1-22"></div>
-<p class="text-23"><span class="text-rgb-94-79-82">Cricket</span></p>
-<p class="text-24"><span class="text-rgb-94-79-82">Basketball</span></p>
-<p class="text-25"><span class="text-rgb-94-79-82">Volleyball</span></p>
-<p class="text-26"><span class="text-rgb-94-79-82">Badminton</span></p>
-<p class="text-27"><span class="text-rgb-94-79-82">100MTS</span></p>
-<p class="text-28"><span class="text-rgb-94-79-82">200MTS</span></p>
-<p class="text-29"><span class="text-rgb-94-79-82">400MTS</span></p>
-<p class="text-30"><span class="text-rgb-94-79-82">4*100 Relay</span></p>
-</div>
-
-</body>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Exported from Figma">
+      <title>Exported Figma Design</title>
+      <link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="styles.css">
+   </head>
+   <body>
+      <div class="events-1">
+         <div class="status-bar-2">
+            <div class="right-side-3">
+               <div class="battery-4">
+                  <img src="images/rectangle-5.svg" class="rectangle-5" alt="rectangle" />
+                  <img src="images/combined-shape-6.svg" class="combined-shape-6" alt="combined-shape" />
+                  <img src="images/rectangle-7.svg" class="rectangle-7" alt="rectangle" />
+               </div>
+               <img src="images/wifi-8.svg" class="wifi-8" alt="wifi" />
+               <img src="images/mobile-signal-9.svg" class="mobile-signal-9" alt="mobile-signal" />
+            </div>
+            <div class="left-side-10">
+               <div class="time-11">
+                  <img src="images/9-41-12.svg" class="9-41-12" alt="9-41" />
+               </div>
+            </div>
+         </div>
+         <img src="images/node-13.png" class="node-13" alt="pexels-vishnurnair-1105666-1" />
+         <p class="text-14"><span class="text-white">Events Available</span></p>
+         <div class="rectangle-1-15"></div>
+         <div class="rectangle-1-16"></div>
+         <div class="rectangle-1-17"></div>
+         <div class="rectangle-1-18"></div>
+         <div class="rectangle-1-19"></div>
+         <div class="rectangle-1-20"></div>
+         <div class="rectangle-1-21"></div>
+         <div class="rectangle-1-22"></div>
+         <p class="text-23"><span class="text-rgb-94-79-82">Cricket</span></p>
+         <p class="text-24"><span class="text-rgb-94-79-82">Basketball</span></p>
+         <p class="text-25"><span class="text-rgb-94-79-82">Volleyball</span></p>
+         <p class="text-26"><span class="text-rgb-94-79-82">Badminton</span></p>
+         <p class="text-27"><span class="text-rgb-94-79-82">100MTS</span></p>
+         <p class="text-28"><span class="text-rgb-94-79-82">200MTS</span></p>
+         <p class="text-29"><span class="text-rgb-94-79-82">400MTS</span></p>
+         <p class="text-30"><span class="text-rgb-94-79-82">4*100 Relay</span></p>
+      </div>
+   </body>
 </html>
-
 ```
 
 ### CSS
